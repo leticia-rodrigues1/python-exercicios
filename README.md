@@ -38,4 +38,4 @@ Os exercícios estão organizados em arquivos individuais:
 - Construir base sólida para projetos de dados
   
 
-✨ Repositório criado como parte da minha jornada de aprendizado e transição para a área de tecnologia e dados
+## Repositório criado como parte da minha jornada de aprendizado e transição para a área de tecnologia e dados
