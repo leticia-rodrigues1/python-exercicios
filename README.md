@@ -8,17 +8,6 @@ Este repositório reúne exercícios práticos desenvolvidos durante meus estudo
 
 Os exercícios estão organizados por módulos/pastas para acompanhar minha evolução no aprendizado.
 
-##  Estrutura do repositório
-
-'''bash
-python-exercicios/
-
-├── python-exercicios1/
-
-├── python-exercicios2/
-
-└── README.md
-
 ##  Conceitos praticados
 
 Entre os principais temas estudados:
