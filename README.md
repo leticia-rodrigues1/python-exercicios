@@ -1,12 +1,39 @@
-# Python Exercícios
+#  Python Exercícios
 
-Repositório dedicado à prática de exercícios em Python, com foco no desenvolvimento da lógica de programação, sintaxe da linguagem e resolução de problemas.
+Repositório criado para registrar minha prática e evolução em Python, com exercícios focados no desenvolvimento da lógica de programação e fundamentos essenciais para a área de dados.
 
 ##  Sobre o projeto
 
-Este repositório reúne exercícios práticos desenvolvidos durante meus estudos em Python, com o objetivo de fortalecer a base da linguagem e evoluir para aplicações em análise de dados.
+Este repositório reúne exercícios práticos desenvolvidos durante meus estudos em Python, abordando conceitos fundamentais da linguagem e fortalecendo a base necessária para análise de dados e automação.
 
-Os arquivos incluem desafios de programação, estruturas condicionais, loops, manipulação de variáveis e outros conceitos fundamentais.
+Os exercícios estão organizados por módulos/pastas para acompanhar minha evolução no aprendizado.
+
+##  Estrutura do repositório
+
+'''bash
+python-exercicios/
+├── python-exercicios1/
+├── python-exercicios2/
+└── README.md
+
+##  Conceitos praticados
+
+Entre os principais temas estudados:
+
+- Variáveis
+- Tipos de dados
+- Operadores matemáticos e lógicos
+- Estruturas condicionais ('if', 'elif', 'else')
+- Estruturas de repetição ('for', 'while')
+- Listas
+- Funções ('def')
+- Manipulação de strings
+- Cálculos e lógica de programação
+- Exercícios práticos
+
+##  Objetivo
+
+Fortalecer minha base em Python como parte da minha transição para a área de Dados, desenvolvendo raciocínio lógico e prática constante com código.
 
 ##  Tecnologias utilizadas
 
@@ -15,27 +42,7 @@ Os arquivos incluem desafios de programação, estruturas condicionais, loops, m
 - Git
 - GitHub
 
-##  Estrutura do repositório
+##  Autora
 
-Os exercícios estão organizados em arquivos individuais:
-
-- 'gabarito_01.py'
-- 'gabarito_02.py'
-- 'gabarito_03.py'
-- 'gabarito_04.py'
-- 'gabarito_05.py'
-- 'gabarito_06.py'
-- 'gabarito_07.py'
-- 'gabarito_08.py'
-- 'gabarito_09.py'
-
-##  Objetivo
-
-- Praticar lógica de programação
-- Aprimorar a sintaxe do Python
-- Desenvolver raciocínio computacional
-- Criar consistência nos estudos
-- Construir base sólida para projetos de dados
-  
-
-## Repositório criado como parte da minha jornada de aprendizado e transição para a área de tecnologia e dados
+**Leticia Rodrigues**  
+Em transição para a área de Dados | Python | SQL | Power BI
