@@ -12,8 +12,11 @@ Os exercícios estão organizados por módulos/pastas para acompanhar minha evol
 
 '''bash
 python-exercicios/
+
 ├── python-exercicios1/
+
 ├── python-exercicios2/
+
 └── README.md
 
 ##  Conceitos praticados
