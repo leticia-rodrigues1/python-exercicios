@@ -33,8 +33,7 @@ Fortalecer minha base em Python como parte da minha transição para a área de 
 - Visual Studio Code
 - Git
 - GitHub
-
-##  Autora
+  
 
 **Leticia Rodrigues**  
 Em transição para a área de Dados | Python | SQL | Power BI
