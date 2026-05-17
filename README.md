@@ -6,7 +6,7 @@ Repositório criado para registrar minha prática e evolução em Python, com ex
 
 Este repositório reúne exercícios práticos desenvolvidos durante meus estudos em Python, abordando conceitos fundamentais da linguagem e fortalecendo a base necessária para análise de dados e automação.
 
-Os exercícios estão organizados por módulos/pastas para acompanhar minha evolução no aprendizado.
+Os exercícios estão organizados por pastas para acompanhar minha evolução no aprendizado.
 
 ##  Conceitos praticados
 
